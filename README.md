@@ -6,7 +6,8 @@
  <div align='center'>
    <a href="https://github.com/deivid-rodrigues">
     
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deivid-rodrigues&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&icon_color=FFFF00&text_color=FAFAD2&title_color=1E90FF"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deivid-rodrigues&show_icons=true&count_private=true&bg_color=00000000&icon_color=FFFF00&text_color=FAFAD2&title_color=1E90FF"/>
+   
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivid-rodrigues&layout=compact&langs_count=6&bg_color=00000000&icon_color=FFFF00&text_color=FAFAD2&title_color=1E90FF"/>
 
 </div> <br>
